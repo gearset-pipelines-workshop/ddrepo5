@@ -38,6 +38,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Asset.DD5_User__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Asset.HasLifecycleManagement</field>
         <readable>true</readable>
     </fieldPermissions>
